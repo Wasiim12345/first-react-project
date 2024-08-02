@@ -1,0 +1,9 @@
+{
+    "studentDetails": [
+        {
+            "studentName": "Wasim Akram",
+            "studentEmail": "wasimakram@gmail.com",
+            "id": 12345
+        }
+    ]
+}
