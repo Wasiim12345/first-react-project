@@ -10,7 +10,7 @@ function List() {
             axios.get("http://localhost:3333/studentDetails").then
             ((getData) => {
                 console.log(getData.data);
-                setData(getData)
+                setData(getData.data)
             })
         } 
         catch(error) {
